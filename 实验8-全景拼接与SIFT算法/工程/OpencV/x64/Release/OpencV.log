@@ -1,0 +1,12 @@
+﻿  sift.cpp
+sift.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+sift.cpp(110): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+sift.cpp(111): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+sift.cpp(128): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  12 of 504 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpencV.vcxproj -> F:\Graphic\CVproject\OpencV\x64\Release\OpencV.exe
+  OpencV.vcxproj -> F:\Graphic\CVproject\OpencV\x64\Release\OpencV.pdb (Full PDB)

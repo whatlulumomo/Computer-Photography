@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-94
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:143-168
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:169-192
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:193-233
+	android:theme
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:2:95-142
+uses-sdk
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+	android:targetSdkVersion
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:3:40-69
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:3:13-39
+uses-feature#android.hardware.camera
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-58
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:4:17-55
+supports-screens
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:3-163
+	android:largeScreens
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:78-105
+	android:smallScreens
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:21-48
+	android:normalScreens
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:49-77
+	android:xlargeScreens
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:106-134
+	android:anyDensity
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:5:135-160
+uses-permission#android.permission.INTERNET
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:6:3-65
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:6:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:7:20-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:8:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:9:20-76
+application
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:3-35:17
+	android:label
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:50-82
+	android:icon
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:16-49
+	android:banner
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:164-201
+	android:theme
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:83-141
+	android:isGame
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:10:142-163
+activity#com.unity3d.player.UnityPlayerNativeActivity
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:5-18:16
+	android:screenOrientation
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:108-146
+	android:label
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:75-107
+	android:hardwareAccelerated
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:361-396
+	android:launchMode
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:147-178
+	android:configChanges
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:179-360
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:11:15-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:12:7-15:23
+action#android.intent.action.MAIN
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:13:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:14:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:16:7-82
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:16:59-79
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:16:18-58
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:17:7-97
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:17:73-94
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:17:18-72
+activity#com.unity3d.player.VideoPlayer
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:19:5-20:16
+	android:screenOrientation
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:19:94-130
+	android:label
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:19:61-93
+	android:configChanges
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:19:131-288
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:19:15-60
+uses-library#com.ti.s3d
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:26:5-72
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:26:45-69
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:26:19-44
+uses-library#com.osterhoutgroup.api.ext
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:30:5-88
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:30:61-85
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:30:19-60
+meta-data#unity.build-id
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:31:5-101
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:31:46-98
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:31:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:32:5-69
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:32:49-66
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:32:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:33:5-74
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:33:51-71
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:33:16-50
+meta-data#android.max_aspect
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:34:5-72
+	android:value
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:34:50-69
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:34:16-49
+uses-feature#0x00020000
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:36:3-52
+	android:glEsVersion
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:36:17-49
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:37:3-93
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:37:66-90
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:37:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:38:3-89
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:38:62-86
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:38:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:39:3-88
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:39:61-85
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:39:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:40:3-99
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:40:72-96
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:40:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:41:3-108
+	android:required
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:41:81-105
+	android:name
+		ADDED from /Users/geshuaiqi/New Unity Project/Temp/gradleOut/src/main/AndroidManifest.xml:41:17-80

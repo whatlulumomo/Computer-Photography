@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_7f39a6a2461c5070ad7f55e93a86489e6597183e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_a7e526a3f662fe7b3471a2d2e5cbe8df7b076f35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="/Users/geshuaiqi/New Unity Project/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_567d637785069816e8461c45a1c84b0c149988ae.jar" />
+    </item>
+
+</items>
